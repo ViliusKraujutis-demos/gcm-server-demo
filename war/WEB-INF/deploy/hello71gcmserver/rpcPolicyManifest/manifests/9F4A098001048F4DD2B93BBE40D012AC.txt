@@ -1,0 +1,2 @@
+serviceClass: lt.andro.hellogcmserver.client.GreetingService
+path: FFA92369AEEBD9E7642904AEB4C8BAF0.gwt.rpc

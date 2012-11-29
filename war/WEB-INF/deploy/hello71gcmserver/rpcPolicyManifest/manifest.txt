@@ -1,0 +1,3 @@
+# Module hello71gcmserver
+# RPC service class, partial path of RPC policy file
+lt.andro.hellogcmserver.client.GreetingService, FFA92369AEEBD9E7642904AEB4C8BAF0.gwt.rpc
